@@ -13,7 +13,7 @@ body{
     background-position: center;
     background-size: contain;
     color: rgb(238, 236, 239);
-    background-color: rgb(139, 120, 145);
+    background-color: rgb(121, 95, 136);
 }
 nav{
     position:relative;
@@ -44,7 +44,7 @@ b{
     padding: 100px;
     margin:50px;
     font-size: xx-large;
-    color: rgb(79, 32, 123);
+    color: rgb(43, 22, 62);
     font-style:oblique;
     
 }
